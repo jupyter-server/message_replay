@@ -6,6 +6,4 @@ async def test_get(jp_fetch):
 
     assert response.code == 200
     payload = json.loads(response.body)
-    assert payload == {
-        "ping_response": "pong"
-    }
+    assert payload == {"ping_response": "pong"}
