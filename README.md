@@ -4,6 +4,8 @@
 
 Restore Notebook execution progress when a browser page is reloaded
 
+See https://github.com/jupyter-server/team-compass/issues/52 to learn about how this repository came into existence.
+
 ## Requirements
 
 - Jupyter Server
