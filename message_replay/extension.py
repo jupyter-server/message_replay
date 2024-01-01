@@ -5,7 +5,6 @@ from .handlers import PingHandler
 
 
 class Extension(ExtensionApp):
-
     name = "message_replay"
     handlers = [("message-replay/ping", PingHandler)]
 
