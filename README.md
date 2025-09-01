@@ -47,7 +47,7 @@ jupyter server extension list
 pip install -e .
 ```
 
-You can watch the source directory and run your Jupyter Server-based application at the same time in different terminals to watch for changes in the extension's source and automatically rebuild the extension.  For example,
+You can watch the source directory and run your Jupyter Server-based application at the same time in different terminals to watch for changes in the extension's source and automatically rebuild the extension. For example,
 when running JupyterLab:
 
 ```bash
